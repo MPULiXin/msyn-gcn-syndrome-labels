@@ -1,0 +1,7 @@
+syn_label_cache.jsonl
+*.xlsx
+train.txt
+test.txt
+labels_split/
+__pycache__/
+.env
