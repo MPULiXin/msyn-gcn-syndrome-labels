@@ -132,7 +132,7 @@ dimensions.
 
 ## 6. Citation
 
-<!-- TODO: 论文接收后补上正式引用 -->
+<!-- TODO: update with the full citation once the paper is accepted -->
 
 If you use these labels, please cite the paper and the original dataset:
 
@@ -143,4 +143,5 @@ If you use these labels, please cite the paper and the original dataset:
 
 ## 7. License
 
-<!-- TODO: 选择许可证。数据类仓库常用 CC BY 4.0；若同时含代码，可对 split_labels.py 单独用 MIT。 -->
+The labels are dedicated to the public domain under CC0 1.0 Universal;
+see [LICENSE](LICENSE). If you use them, please cite the paper listed above.
